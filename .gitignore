@@ -176,3 +176,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/mvnw.cmd
+/mvnw
+/src/main/resources/application.properties
+/.mvn/
